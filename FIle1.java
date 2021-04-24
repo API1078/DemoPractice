@@ -5,5 +5,6 @@ class FIle1{
 		System.out.println("Second Line from branch Apisero");
 		System.out.println("Third Line from branch Apisero");
 		System.out.println("Third Line from branch master");
+		System.out.println("Checking dynamic varible in jenkins");
 	}
 }
